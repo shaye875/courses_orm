@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.13 (courses_orm)" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (course_orm)" project-jdk-type="Python SDK" />
 </project>
